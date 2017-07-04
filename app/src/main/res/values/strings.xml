@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Times Table</string>
+    <string name="minTable">1</string>
+    <string name="maxTable">20</string>
+</resources>
